@@ -2,7 +2,7 @@
 
 Analyzing user and expert reviews, genres, platforms, and historical data on game sales that are available from open sources. I will identify patterns that determine whether a game succeeds or not. I will be forecasting 2017 sales based on data from 2016.
 
-###Conclusions:
+### Conclusions:
 
 ○ Data collection should check updating 'tbd' values in user_score.
 
